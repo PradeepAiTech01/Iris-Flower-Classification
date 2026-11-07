@@ -1,0 +1,6 @@
+Model,Accuracy
+SVM,96.66666666666667
+Logistic Regression,93.33333333333333
+Decision Tree,93.33333333333333
+KNN,93.33333333333333
+Random Forest,90.0
